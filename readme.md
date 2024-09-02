@@ -1,3 +1,5 @@
+Summer project, repo was made for HackClub Arcade submission
+
 First things first, have in your possesion a foam glider and a toy drone that is ready to be ripped apart.
 
 The idea is to disassemble the drone and transfer the electronics directly to the glider.
